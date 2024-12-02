@@ -34,7 +34,7 @@ function calculateDistance(array $list1, array $list2): int
 	return $sum;
 }
 
-function calculateSimilarityScore (array $numbers): int
+function calculateSimilarityScore(array $numbers): int
 {
 	$sum2 = 0;
 
